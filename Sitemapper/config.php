@@ -1,11 +1,11 @@
 <?php 
 /*
 Plugin Name: Sitemapper
-Plugin URI: http://www.caw.ac.uk
+Plugin URI: 
 Description: A custom sitemap generator
 Author: Sami Cooper
 Version: 0.1
-Author URI: http://www.caw.ac.uk
+Author URI: 
 */
 ?>
 <?php #SM_post_types
